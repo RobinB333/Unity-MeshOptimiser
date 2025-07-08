@@ -1,1 +1,1 @@
-Native Mesh Optimiser using zeux meshoptimizer and Everengine C# native bindings for Runtime Unity Mesh Optimization
+Native Mesh Optimiser using zeux meshoptimizer and Evergine C# native bindings for Runtime Unity Mesh Optimization
